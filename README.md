@@ -1,2 +1,3 @@
-# DIO
- Repositório feito com o objetivo de armazenar meus exercícios da DIO.
+# estudos
+
+ Repositório feito com o objetivo de armazenar meus estudos.
